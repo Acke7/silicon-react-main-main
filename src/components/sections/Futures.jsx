@@ -9,7 +9,7 @@ const Futures = () => {
             </div>
             <div className="column right">
                 <div className="headline">
-                     <h2>App Features</h2>
+                     <h2>App Futures</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin volutpat mollis egestas. Nam luctus facilisis ultrices. Pellentesque volutpat ligula est. Mattis fermentum, at nec lacus.</p>
                 </div>
             <div className="futures">
